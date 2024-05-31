@@ -1,9 +1,8 @@
 # 3D to Floor Plans Images
 
-
+This repository contains code and resources for converting 3D models to 2D floor plans images. The goal is to facilitate the generation of accurate and detailed floor plans from 3D models using state-of-the-art algorithms.
 
 ## Table of Contents
-- [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -11,9 +10,6 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
-
-## Introduction
-This repository contains code and resources for converting 3D models to 2D floor plans images. The goal is to facilitate the generation of accurate and detailed floor plans from 3D models using state-of-the-art algorithms.
 
 ## Features
 - Convert 3D models to 2D floor plans
