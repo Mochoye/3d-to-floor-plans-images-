@@ -71,7 +71,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any questions or inquiries, please contact:
-- Saeed - [GitHub](https://github.com/Mochoye)
+- Archisman Ray - [GitHub](https://github.com/Mochoye)
 
 We hope this project helps you in generating high-quality floor plans from 3D models!
 
